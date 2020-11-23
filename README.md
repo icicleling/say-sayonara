@@ -1,3 +1,3 @@
-#say-sayonara
+# say-sayonara
 
-会打印 "sayonara"
+print "sayonara"
